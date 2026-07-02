@@ -1,0 +1,42 @@
+area,zone_type,province,price_low_baht_per_sqwah,price_high_baht_per_sqwah,km_from_siam_cbd,lat,lon,source
+Silom/Sathorn,CBD,Bangkok,1000000,1200000,1.5,13.7280,100.5346,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Ploenchit/Wireless Road,CBD,Bangkok,900000,1100000,1.0,13.7440,100.5440,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Ratchadamri Road,CBD,Bangkok,750000,1000000,0.8,13.7394,100.5394,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Rama I Road,CBD,Bangkok,400000,1000000,0.5,13.7466,100.5347,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Yaowarat (Chinatown),Inner,Bangkok,700000,700000,4.5,13.7398,100.5090,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Thonglor/Ekamai,Inner,Bangkok,700000,950000,6.0,13.7239,100.5810,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Sukhumvit (main),Inner,Bangkok,230000,750000,5.0,13.7373,100.5606,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Asoke/Petchburi,Inner,Bangkok,600000,600000,3.5,13.7367,100.5602,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Naradhiwas Rajanagarindra,Inner,Bangkok,280000,600000,3.0,13.7188,100.5300,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Phaya Thai,Middle,Bangkok,500000,500000,4.0,13.7566,100.5335,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+Lat Phrao,Outer,Bangkok,150000,200000,10.0,13.8080,100.5688,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+Nonthaburi (Kaerai-Tiwanon-Rattanathibet),Suburb,Nonthaburi,100000,250000,18.0,13.8593,100.4867,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Nonthaburi (assessed range - provincewide),Assessed range,Nonthaburi,1000,170000,20.0,13.8621,100.5145,https://thaipropertymentor.com/wp-content/uploads/2023/01/
+Samut Prakan (Bangna-Theparak),Suburb,Samut Prakan,70000,180000,20.0,13.5990,100.6350,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Samut Prakan (assessed range - provincewide),Assessed range,Samut Prakan,500,160000,22.0,13.5991,100.5998,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Pathum Thani (Rangsit-Khlong Luang),Suburb,Pathum Thani,30000,90000,30.0,13.9868,100.6167,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Pathum Thani (assessed range - provincewide),Assessed range,Pathum Thani,1000,100000,28.0,14.0208,100.5250,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Nakhon Pathom (assessed range - provincewide),Assessed range,Nakhon Pathom,200,80000,35.0,13.8196,100.0645,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Samut Sakhon (assessed range - provincewide),Assessed range,Samut Sakhon,500,70000,30.0,13.5475,100.2740,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Pattaya Beach Road,Coastal prime,Chon Buri,610000,610000,140.0,12.9350,100.8830,https://www.area.co.th/t/8175
+Pattaya (assessed avg),Assessed range,Chon Buri,200000,220000,140.0,12.9236,100.8825,https://thelist.group/realist/wp-content/uploads/2002/01/
+Sriracha (Sukhumvit - opp Robinson),Market,Chon Buri,95000,95000,120.0,13.1700,100.9310,https://www.area.co.th/t/8175
+Asok BTS/MRT interchange frontage,Inner-transit,Bangkok,800000,1000000,4.3,13.7367,100.5602,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Phrom Phong BTS frontage,Inner-transit,Bangkok,750000,900000,5.6,13.7301,100.5697,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Ari BTS area,Inner-transit,Bangkok,350000,550000,7.0,13.7797,100.5448,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+Mo Chit/Chatuchak BTS-MRT interchange,Inner-transit,Bangkok,300000,500000,7.9,13.8025,100.5535,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+On Nut BTS frontage,Middle-transit,Bangkok,220000,350000,9.5,13.7053,100.6014,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Bang Na BTS frontage (in-city side),Middle-transit,Bangkok,180000,280000,11.5,13.6680,100.6047,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Interior soi off Sukhumvit no BTS (~1.5km walk),Middle-no-transit,Bangkok,80000,150000,9.0,13.7150,100.6100,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Bang Kapi no rail access,Outer-no-transit,Bangkok,80000,250000,12.0,13.7660,100.6450,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+Min Buri no rail access,Outer-no-transit,Bangkok,30000,150000,20.0,13.8130,100.7440,https://urbanhomeplk.com/bangkok-most-expensive-land-2026/
+Bearing BTS terminus,Outer-transit,Bangkok,150000,250000,13.5,13.6607,100.6046,https://primo.co.th/บทความ/อัปเดต-ราคาประเมินที่ดิน/
+Samrong MRT Yellow/BTS interchange,Border-transit,Samut Prakan,120000,200000,15.5,13.6489,100.5972,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Bang Phli MRT Yellow Line frontage,Border-transit,Samut Prakan,60000,120000,18.5,13.6021,100.6472,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Phra Pradaeng no rail access,Border-no-transit,Samut Prakan,25000,60000,12.0,13.6580,100.5350,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Bang Bo far Samut Prakan,Suburb,Samut Prakan,10000,35000,35.0,13.5270,100.8930,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Pak Kret MRT Pink Line frontage,Border-transit,Nonthaburi,80000,150000,17.0,13.9127,100.4996,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Bang Yai MRT Purple Line terminus,Border-transit,Nonthaburi,50000,100000,21.0,13.8697,100.4159,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Bang Kruai no rail access,Border-no-transit,Nonthaburi,30000,80000,15.0,13.8100,100.4700,https://tb.co.th/article/home-knowledge/land-appraisal-value
+Nonthaburi Civic Center MRT frontage,Border-transit,Nonthaburi,90000,180000,16.0,13.8613,100.5147,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas
+Rangsit SRT/future station frontage,Border-transit,Pathum Thani,40000,80000,32.0,13.9868,100.6167,https://futuredeveloperacademy.com/content/land-price-bangkok-surroun-areas

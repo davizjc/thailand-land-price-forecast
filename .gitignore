@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/processed/geocode_cache.json
+
+# Large per-parcel Treasury bulk downloads (~280MB total) -- regenerate
+# with `python3 scripts/01_download_treasury.py`.
+data/raw/land_valuation_*.csv
